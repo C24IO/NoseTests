@@ -1,0 +1,2 @@
+# NoseTests
+Trying out nosetests
